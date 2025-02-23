@@ -4,9 +4,6 @@ La historia se desarrolla en mundo místico donde los números tienen vida propi
 deberá enfrentarse a desafíos cada vez más complejos mientras aprende y enseña a los jugadores conceptos clave de álgebra y aritmética. 
 El jugador podrá El jugador podrá explorar distintos mundos del Reino de GeoMath resolviendo acertijos matemáticos, para avanzar deberá usar su ingenio matemático para resolver los problemas matemáticos planteados en cada nivel ] y los desafíos incluirán cálculo de áreas y ecuaciones
 
-
-
-
 Los estudiantes avanzarán mediante [SISTEMA]. Cada nivel representa [CONCEPTO EDUCATIVO], y los jugadores recibirán retroalimentación inmediata sobre su desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros.
 Los jugadores aprenderán [CONCEPTO 1] mediante [ACTIVIDAD 1]. Se reforzará [CONCEPTO 2] a través de [ACTIVIDAD 2] y las evaluaciones se realizarán mediante [MÉTODO], lo que permitirá a los profesores y estudiantes medir el progreso de manera efectiva.
 El juego se desarrollará usando [TECNOLOGÍA] y tendrá soporte para [PLATAFORMAS]. Además, se implementarán características como [CARACTERÍSTICAS TÉCNICAS ADICIONALES] para garantizar una experiencia de juego fluida y atractiva.
